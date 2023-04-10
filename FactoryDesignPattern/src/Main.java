@@ -22,3 +22,8 @@ public class Main {
         enemyShip.enemyShipShoots();
     }
 }
+
+
+
+
+12 95+62+1+61+61+1321616291991919199fffffffffffffffffffffffffffffffffffffffffff
