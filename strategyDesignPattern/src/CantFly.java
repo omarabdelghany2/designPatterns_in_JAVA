@@ -2,6 +2,6 @@ public class CantFly implements Flys{
 
     public String fly(){
 
-        return ("cantFly");
+        return ("can'tFly");
     }
 }

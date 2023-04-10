@@ -13,12 +13,14 @@ public class Main {
         System.out.println(fido.getSound());
 */
 
-        Animal SPARKY=new Dog();
-        Animal Tweety =new Bird();
+        Animal SPARKY = new Dog();
+        Animal Tweety = new Bird();
         System.out.println("bird :"+Tweety.tryToFly());
         Tweety.setFlyingType(new CantFly());
         System.out.println("bird :"+Tweety.tryToFly());
         System.out.println("Dog:"+SPARKY.tryToFly());
+
+        Animal x = new Animal();
 
     }
 }
