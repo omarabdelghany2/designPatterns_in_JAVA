@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c48b173-2e5b-4e40-a6bb-fbfe58dba362" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../FactoryDesignPattern/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryDesignPattern/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a6f9ff3-8591-484a-9622-5fa64d277faa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2ODjVcsfGMFXSpNt90azt32Na9Y" />
+  <component name="ProjectId" id="2ODjiDXIrH4KxV1U8kLjrU7Y2sV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,29 +29,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "/home/omar/designPatterns_in_JAVA/Singleton/src/Main.java"
+    "onboarding.tips.debug.path": "/home/omar/designPatterns_in_JAVA/SingletonDesign/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c48b173-2e5b-4e40-a6bb-fbfe58dba362" name="Changes" comment="" />
-      <created>1681102077618</created>
+      <changelist id="3a6f9ff3-8591-484a-9622-5fa64d277faa" name="Changes" comment="" />
+      <created>1681102172839</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681102077618</updated>
+      <updated>1681102172839</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
