@@ -5,6 +5,7 @@ public class Main {
         oldRobotBuilder robotBuilder = new oldRobotBuilder();
 
         RobotEngineer Engineer = new RobotEngineer(robotBuilder);
+        Engineer.makeRobot();
 
         Robot myrobot= Engineer.getRobot();
 
